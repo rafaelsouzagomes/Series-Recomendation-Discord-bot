@@ -1,0 +1,19 @@
+{
+  "name": "seriesrecomendationdiscordbot",
+  "version": "1.0.0",
+  "description": "A discord bot to share your option about series and get personally recomendations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelsouzagomes/Series-Recomendation-Discord-bot.git"
+  },
+  "author": "rafael souza gomes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafaelsouzagomes/Series-Recomendation-Discord-bot/issues"
+  },
+  "homepage": "https://github.com/rafaelsouzagomes/Series-Recomendation-Discord-bot#readme"
+}
